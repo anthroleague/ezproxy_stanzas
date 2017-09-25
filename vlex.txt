@@ -1,0 +1,6 @@
+T vLex 
+U http://vlex.com/account/login_ip
+HJ us.vlex.com
+HJ latam.vlex.com
+HJ vlex.com
+DJ vlex.com 

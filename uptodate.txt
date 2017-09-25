@@ -1,0 +1,9 @@
+T UpToDate
+U http://www.uptodate.com
+HJ https://www.uptodate.com
+HJ https://www.uptodateonline.com
+HJ uptodate.com
+HJ uptodateonline.com
+HJ www.uptodate.com
+HJ www.uptodateonline.com
+DJ uptodate.com

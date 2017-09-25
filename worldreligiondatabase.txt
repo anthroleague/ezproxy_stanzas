@@ -1,0 +1,9 @@
+T World Religion Database
+U http://worldreligiondatabase.org/wrd_default.asp
+HJ worldreligiondatabase.org
+HJ worldchristiandatabase.org
+HJ www.worldchristiandatabase.org
+HJ www.worldreligiondatabase.org
+DJ worldreligiondatabase.org
+DJ worldchristiandatabase.org
+
