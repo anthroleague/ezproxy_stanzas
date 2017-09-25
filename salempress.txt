@@ -1,0 +1,14 @@
+Title Salem Press
+URL http://online.salempress.com/home.do
+HJ www.salempress.com
+HJ www.history.salempress.com
+HJ history.salempress.com
+HJ www.literature.salempress.com
+HJ literature.salempress.com
+HJ www.science.salempress.com
+HJ science.salempress.com
+HJ www.health.salempress.com
+HJ health.salempress.com
+HJ salempress.com
+DJ salempress.com 
+HJ online.salempress.com

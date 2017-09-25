@@ -1,0 +1,10 @@
+T Royal Society of Chemistry
+U http://pubs.rsc.org/
+H https://pubs.rsc.org
+H ebook.rsc.org
+H pubs.rsc.org
+H www.rsc.org
+H xlink.rsc.org
+DJ rsc.org
+
+

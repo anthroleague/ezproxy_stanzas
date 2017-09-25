@@ -1,0 +1,8 @@
+T Oxford Dictionaries
+U http://www.oxforddictionaries.com
+HJ www.oxforddictionaries.com
+HJ www.english.oxforddictionaries.com
+HJ blog.oxforddictionaries.com
+HJ community.oxforddictionaries.com
+HJ oxforddictionaries.com
+DJ oxforddictionaries.com

@@ -1,0 +1,14 @@
+Option CookiePassThrough
+Title Safari Books
+URL http://proquest.safaribooksonline.com
+HJ https://proquest.safaribooksonline.com
+HJ https://proquestcombo.safaribooksonline.com
+HJ https://www.safaribooksonline.com
+HJ proquestcombo.safaribooksonline.com
+HJ www.safaribooksonline.com
+DJ safaribooksonline.com
+Find targetpage=https://
+Replace targetpage=https://^A
+Find document.location.replace(redirectPage);
+Replace redirectPage = redirectPage.replace(/^^http:\/\/proquest.safaribooksonline.com/, "http://^pproquest.safaribooksonline.com^/").replace(/^^https:\/\/ssl.safaribooksonline.com/, "https://^sssl.safaribooksonline.com^/"); document.location.replace(redirectPage);
+Option Cookie

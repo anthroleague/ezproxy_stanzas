@@ -1,0 +1,5 @@
+T The Public Manager
+U https://www.td.org/Publications/Magazines/The-Public-Manager
+HJ www.td.org
+HJ http://www.tid.org
+DJ td.org

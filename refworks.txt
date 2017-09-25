@@ -1,0 +1,10 @@
+Option DomainCookieOnly
+Title RefWorks
+URL http://www.refworks.com/Refworks/
+HJ https://www.refworks.com
+DJ refworks.com
+Find &url=http://
+Replace &url=http://^A
+Find &url=https://
+Replace &url=https://^A
+Option Cookie

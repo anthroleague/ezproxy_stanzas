@@ -1,0 +1,6 @@
+T Philosophy Documentation Center Collection (Philosophy Online and Poiesis)
+U http://www.pdcnet.org/collection
+HJ cas.pdcnet.org
+HJ secure.pdcnet.org
+DJ pdcnet.org
+ 

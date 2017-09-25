@@ -1,0 +1,22 @@
+T The New Yorker
+U http://www.newyorker.com/archive
+HJ www.newyorker.com
+HJ archives.newyorker.com
+HJ https://subscribe.newyorker.com
+HJ subscribe.newyorker.com
+HJ video.newyorker.com
+HJ contest.newyorker.com
+HJ content.archives.newyorker.com
+HJ newyorker.com
+DJ newyorker.com
+HJ www.condenast.com
+HJ condenast.com
+DJ condenast.com
+HJ www.condenaststore.com
+HJ condenaststore.com
+DJ condenaststore.com
+HJ w1.buysub.com
+DJ buysub.com
+HJ www.newyorkeronthetown.com
+HJ newyorkeronthetown.com
+DJ newyorkeronthetown.com
