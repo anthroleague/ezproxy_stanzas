@@ -1,0 +1,10 @@
+T Handbook of Birds of the World
+U http://www.hbw.com/user
+HJ www.hbw.com
+DJ hbw.com
+Find id="edit-name"
+Replace value="Username" id="edit-name"
+Find "edit-pass"
+Replace "password"
+#Find </form>
+#Replace </form><script>document.getElementById("edit-submit").click();</script>

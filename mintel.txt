@@ -1,0 +1,9 @@
+Title Mintel
+URL http://academic.mintel.com/
+HJ academic.mintel.com
+HJ marketsizes.mintel.com
+HJ portal.mintel.com
+HJ www.academic.mintel.com
+HJ www.gnpd.com
+HJ https://portal.mintel.com/ 
+DJ mintel.com

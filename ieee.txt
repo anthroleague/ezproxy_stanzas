@@ -1,0 +1,7 @@
+Option DomainCookieOnly
+Title IEEE Xplore
+URL http://ieeexplore.ieee.org/xpl/bkBrowse.jsp
+Host www.ieee.org
+Host www.ieeexplore.ieee.org
+Domain ieee.org
+Option Cookie

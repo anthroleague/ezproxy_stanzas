@@ -1,0 +1,36 @@
+Title mhmedical
+URL http://www.mhmedical.com
+HJ accessmedicine.mhmedical.com
+HJ accessanesthesiology.mhmedical.com
+HJ accessemergencymedicine.mhmedical.com
+HJ accesspediatrics.mhmedical.com
+HJ accesspharmacy.mhmedical.com
+HJ accessphysiotherapy.mhmedical.com
+HJ accesssurgery.mhmedical.com
+HJ ommbid.mhmedical.com/
+DJ mhmedical.com
+DJ ommbid.com
+
+Title old mhmedical
+URL http://www.accessmedicine.com
+HJ accessmedicine.com
+HJ m.accessmedicine.com
+HJ www.accessanesthesiology.com
+HJ accessanesthesiology.com
+HJ www.accessemergencymedicine.com
+HJ accessemergencymedicine.com
+HJ www.accesspediatrics.com
+HJ accesspediatrics.com
+HJ www.accesspharmacy.com
+HJ accesspharmacy.com
+DJ accesspharmacy.com
+HJ www.accessphysiotherapy.com
+HJ accessphysiotherapy.com
+HJ www.accesssurgery.com
+HJ m.accesssurgery.com
+HJ accesssurgery.com
+HJ ommbid.com
+
+T JAMAevidence
+U http://jamaevidence.mhmedical.com
+D jamaevidence.mhmedical.com

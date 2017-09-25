@@ -1,0 +1,9 @@
+T Films on Demand
+URL https://digital.films.com/
+HJ digital.films.com
+HJ avod.films.com
+HJ http://secure.films.com
+HJ secure.films.com
+DJ films.com
+Find src='https://digital.films.com/OnDemandEmbed.aspx
+Replace src='https://^Adigital.films.com/OnDemandEmbed.aspx

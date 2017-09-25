@@ -1,0 +1,6 @@
+T Journal of Visual Experiments
+U http://www.jove.com/
+HJ https://www.jove.com
+HJ www.jove.com
+HJ jove.com
+DJ jove.com

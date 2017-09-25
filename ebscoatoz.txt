@@ -1,0 +1,6 @@
+T  EBSCO A-Z List
+U  http://atoz.ebsco.com/home.asp?Id=3490
+DJ ebsco.com
+Domain atoz.ebsco.com 
+HJ atoz.ebsco.com
+HJ https://atoz.ebsco.com

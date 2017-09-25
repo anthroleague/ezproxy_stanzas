@@ -1,0 +1,6 @@
+T Journal of Latin Studies
+U http://jollas.org
+HJ www.jollas.org
+HJ jollas.org
+DJ jollas.org
+HJ https://jollas.org

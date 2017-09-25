@@ -1,0 +1,6 @@
+Option DomainCookieOnly 
+Title -hide EBSCO LinkSource 
+URL http://linksource.ebsco.com 
+HJ linksource.ebsco.com 
+HJ https://linksource.ebsco.com
+Option Cookie

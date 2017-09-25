@@ -1,0 +1,6 @@
+T GSE Research
+U http://www.gseresearch.com
+H gse.publisher.ingentaconnect.com
+H gse_gol.publisher.ingentaconnect.com
+HJ gseresearch.com
+DJ gseresearch.com

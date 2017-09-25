@@ -1,0 +1,6 @@
+Option NoCookie
+T Knovel
+URL http://www.knovel.com/
+HJ app.knovel.com
+DJ knovel.com
+Option Cookie

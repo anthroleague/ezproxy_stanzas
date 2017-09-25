@@ -1,0 +1,5 @@
+T Kanopy Videostreaming
+U https://bridgew.kanopystreaming.com
+HJ http://bridgew.kanopystreaming.com
+HJ bridgew.kanopystreaming.com
+DJ kanopystreaming.com

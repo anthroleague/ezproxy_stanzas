@@ -1,0 +1,10 @@
+T Mergent Hoovers 
+URL https://subscriber.hoovers.com 
+HJ https://subscriber.hoovers.com 
+HJ subscriber.hoovers.com 
+HJ subscriber-2.hoovers.com
+HJ www.mergentonline.com/Hoovers
+HJ mergentonline.com/Hoovers
+DJ subscriber.hoovers.com 
+DJ subscriber-2.hoovers.com
+DJ mergentonline.com

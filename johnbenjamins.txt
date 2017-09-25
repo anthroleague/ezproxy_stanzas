@@ -1,0 +1,9 @@
+T John Benjamins
+U https://benjamins.com/
+HJ antiq.benjamins.com
+HJ benjamins.com
+HJ https://antiq.benjamins.com
+HJ https://benjamins.com
+HJ https://www.benjamins.com
+HJ www.benjamins.com
+DJ benjamins.com

@@ -1,0 +1,8 @@
+Title HeritageQuest
+URL http://www.heritagequestonline.com
+HJ www.heritagequestonline.com
+HJ persi.heritagequestonline.com
+DJ heritagequestonline.com
+HJ www.ancestryheritagequest.com
+HJ ancestryheritagequest.com
+DJ ancestryheritagequest.com

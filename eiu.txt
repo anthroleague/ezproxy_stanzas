@@ -1,0 +1,51 @@
+T -Hide EIU Portal
+U http://www.eiu.com/default.aspx
+H www.eiu.com
+HJ https://portal.eiu.com
+HJ eiu.com
+HJ country.eiu.com
+HJ portal.eiu.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ gfs.eiu.com
+HJ pages.eiu.com
+HJ service.eiu.com
+HJ db.eiu.com
+DJ eiu.com
+
+T -Hide EIU Viewswire
+U http://viewswire.eiu.com
+H viewswire.eiu.com
+HJ viewswire.com
+HJ www.viewswire.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ service.eiu.com
+D viewswire.com
+DJ viewswire.eiu.com
+
+T -Hide Economist.com via corporate IP portal
+U http://www.economist.com/
+H economist.com
+HJ www.economist.com
+HJ stage.economist.com
+D economist.com
+DJ economist.com
+
+T -Hide EIU Dataservices Alacra (global product landing page)
+U http://www.alacra.com/cgi-bin/login.exe?app=login&msg=ExecContent&product=17
+D alacra.com
+H www.alacra.com
+HJ eiu.alacra.com
+HJ alacra.com
+DJ www.alacra.com
+
+T -Hide EIU BvD (multiple products)
+U http://eiu.bvdep.com/ipall
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com
+

@@ -1,0 +1,6 @@
+T John Benjamins e-Platform
+U http://www.jbe-platform.com/content/journals
+H www.jbe-platform.com
+H jbe-platform.com
+D jbe-platform.com
+
