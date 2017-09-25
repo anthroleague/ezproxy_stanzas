@@ -1,0 +1,6 @@
+T Academia
+U http://www.academia.nl
+H academia.nl
+H https://www.academia.nl
+H www.academia.nl
+D academia.nl

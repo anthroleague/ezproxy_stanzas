@@ -1,0 +1,5 @@
+T AMA Manual of Style
+U http://www.amamanualofstyle.com/
+HJ www.amamanualofstyle.com
+HJ amamanualofstyle.com
+DJ amamanualofstyle.com

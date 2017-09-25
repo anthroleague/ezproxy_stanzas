@@ -1,0 +1,4 @@
+T AnthroSource 2.0
+U http://anthrosource.onlinelibrary.wiley.com
+HJ anthrosource.onlinelibrary.wiley.com
+DJ wiley.com

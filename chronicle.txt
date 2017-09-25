@@ -1,0 +1,10 @@
+Title The Chronicle of Higher Education
+MimeFilter application/json .* javascript
+URL http://chronicle.com
+NeverProxy thechronicleofhighereducation.disqus.com
+NeverProxy disqus.com
+NeverProxy mediacdn.disqus.com
+DJ chronicle.com
+HJ chronicle.com
+Find http:\/\/
+Replace http://

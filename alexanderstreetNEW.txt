@@ -1,0 +1,11 @@
+Title Alexander Street Press
+URL http://search.alexanderstreet.com
+NeverProxy cdn.alexanderstreet.com
+Host https://search.alexanderstreet.com
+DJ alexanderstreet.com
+Find "http:\/\/
+Replace "http://
+Find "https:\/\/
+Replace "https://
+Find domain="*.alexanderstreet.com"
+Replace domain="*"

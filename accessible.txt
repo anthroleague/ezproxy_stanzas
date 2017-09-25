@@ -1,0 +1,10 @@
+T Accessible Archives
+U http://www.accessible-archives.com
+HJ www.accessible-archives.com
+HJ https://www.accessible-archives.com
+HJ accessible-archives.com
+DJ accessible-archives.com
+HJ www.accessible.com
+HJ https://www.accessible.com
+HJ accessible.com
+DJ accessible.com

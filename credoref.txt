@@ -1,0 +1,17 @@
+Option Cookie
+
+Title Credo Reference
+URL http://search.credoreference.com 
+DJ search.credoreference.com
+HJ cdn-assets.credoreference.com
+HJ credoreference.com
+HJ https://infolit.credoreference.com
+HJ infolit.credoreference.com
+HJ literati.credoreference.com
+HJ login.credoreference.com
+HJ public.credoreference.com
+HJ public.literati.credoreference.com
+HJ school.credoreference.com
+HJ support.credoreference.com
+HJ vle.credoreference.com
+HJ www.credoreference.com

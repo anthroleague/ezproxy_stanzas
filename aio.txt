@@ -1,0 +1,7 @@
+Title Anthropological Index Online
+URL https://aio.therai.org.uk/
+HJ aio.therai.org.uk
+DJ therai.org.uk
+HJ http://aio.equituk.net
+D equituk.net
+H aio.equituk.net

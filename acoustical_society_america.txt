@@ -1,0 +1,5 @@
+T Acoustical Society of America
+U http://asadl.org/
+D http://asadl.org/
+H scitation.aip.org
+

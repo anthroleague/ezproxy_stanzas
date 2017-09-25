@@ -1,0 +1,8 @@
+T Books in Print
+U http://www.booksinprint.com
+HJ www.booksinprint.com
+HJ booksinprint.com
+DJ booksinprint.com
+HJ www.bowker.com
+HJ bowker.com
+DJ bowker.com

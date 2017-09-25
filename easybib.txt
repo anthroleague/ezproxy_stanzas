@@ -1,0 +1,18 @@
+Title EasyBib
+URL http://www.easybib.com/
+HTTPHeader Access-Control-Allow-*
+HTTPHeader Origin
+NeverProxy notebook.heroku.easybib.com
+H content.easybib.com
+H drafts.easybib.com
+H easybib.com
+H essaycheck.easybib.com
+H help.easybib.com
+H info.easybib.com
+H realtime.easybib.com
+H research.easybib.com
+H titlepage.easybib.com
+H www.easybib.com
+H https://www-secure.easybib.com
+DJ easybib.com
+

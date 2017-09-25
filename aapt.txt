@@ -1,0 +1,4 @@
+T American Journal of Physics 
+U http://aapt.scitation.org/toc/ajp/current
+HJ aapt.scitation.org
+DJ scitation.org

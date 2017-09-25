@@ -1,0 +1,4 @@
+T Ancestry Library
+U  http://ancestrylibrary.proquest.com
+DJ http://ancestrylibrary.proquest.com
+NeverProxy  www.ancestrylibrary.com

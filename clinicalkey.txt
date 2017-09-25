@@ -1,0 +1,6 @@
+Title ClinicalKey
+MimeFilter application/json .* javascript
+URL https://www.clinicalkey.com
+HJ www.clinicalkey.com
+DJ clinicalkey.com
+NeverProxy cdn.clinicalkey.com

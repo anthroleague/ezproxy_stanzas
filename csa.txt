@@ -1,0 +1,17 @@
+Title CSA Illumina
+URL http://www.csa.com
+HJ www.csa.com
+HJ csa.com
+HJ usage.csa.com
+DJ csa.com
+HJ www.csa2.com
+HJ csa2.com
+DJ csa2.com
+HJ www.csa1.co.uk
+HJ csa1.co.uk
+DJ csa1.co.uk
+HJ www.csa.com.tw
+HJ csa.com.tw
+DJ csa.com.tw
+HJ csa.tsinghua.edu.cn
+DJ tsinghua.edu.cn
